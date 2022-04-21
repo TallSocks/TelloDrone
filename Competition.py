@@ -61,8 +61,6 @@ try:
 
         sendmsg('go 425 0 30 69', 15)
         sendmsg('curve 75 100 0 -35 420 0 60')
-
-
         sendmsg('land')
 
         print('\nGreat Flight!!!')
